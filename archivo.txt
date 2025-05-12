@@ -1,1 +1,8 @@
-Napoleón Bonaparte (1769-1821) fue un destacado general y político francés, nacido en Córcega. Reinó como emperador de Francia desde 1804 hasta 1814, y brevemente en 1815. Es conocido por ser un genio militar y un estadista que consolidó las conquistas de la Revolución Francesa, estableciendo estructuras de poder sólidas en Francia y expandiendo su imperio por gran parte de Europa. Su figura se ha convertido en un símbolo del imperialismo europeo y su legado sigue siendo objeto de estudio y debate en la historia.
+Napoleón Bonaparte (1769-1821) fue un destacado general y político 
+francés, nacido en Córcega. Reinó como emperador de Francia desde 
+1804 hasta 1814, y brevemente en 1815. Es conocido por ser un genio 
+militar y un estadista que consolidó las conquistas de la Revolución
+ Francesa, estableciendo estructuras de poder sólidas en Francia y 
+ expandiendo su imperio por gran parte de Europa. Su figura se ha convertido
+  en un símbolo del imperialismo europeo y su legado sigue siendo objeto de estudio y 
+  debate en la historia.

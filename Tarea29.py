@@ -119,7 +119,7 @@ while n>=0:
     n=n-1
 print("Fin")
 #Leer archivos línea por línea hasta fin de archivo.
-f = open("archivo.TXT", "r")
+f = open("archivo.txt", "r")
 linea = f.readline()
 while linea != "":
     print(linea, end="")
