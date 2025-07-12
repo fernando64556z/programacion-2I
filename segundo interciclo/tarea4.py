@@ -1,4 +1,5 @@
-def saludo ():
-    return "Mi nombre es: "
-print(saludo (), "Edwin")
-print(saludo (), "Averos")
+def saludo():
+    return "Mi nombre es:"
+print(saludo(),"Glenn")
+print(saludo(),"Sally")
+print("\n")

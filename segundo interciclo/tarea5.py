@@ -1,11 +1,10 @@
-def saludo (lang) :
+def saludo (lang):
     if lang == 'es':
         return'hola'
-    elif lang == 'fr' :
-             return'bonjour'
+    elif lang == 'fr':
+        return'Bonjour'
     else:
         return'hello'
-
-print(saludo ("fr"), "glenn")
-print(saludo ("es"), "sally")
-print(saludo ("en"), "michael")
+print(saludo('es'),'Glenn')
+print(saludo('fr'),'Sally')
+print(saludo('en'),'Michael')
